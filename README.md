@@ -20,7 +20,7 @@ Insira essa Uri de conexao ao MongoDB Compass "mongodb://labdatabase:labDatabase
 ## Executando o Projeto 
 Clone este repositório:
 
-    https://github.com/Masaki-007/MONGODBCRUD.git  
+    https://github.com/Masaki-007/MONGODBCRUD.git
 
  Execute o aplicativo: 
  java Main 
