@@ -1,0 +1,27 @@
+
+[
+    
+    {
+        
+      "clienteId": 1,
+      "nome": "Nome do Cliente",
+      "cpf": "123.456.789-00",
+      "telefone": "(11) 98765-4321",
+      "rua": "Rua do Cliente",
+      "numeroResidencia": "123",
+      "bairro": "Bairro do Cliente",
+      "cep": "12345-678",
+      "cidade": "Cidade do Cliente"
+    },
+    
+    {
+      "ordemServicoId": 1,
+      "clienteId": 1,
+      "nomeEquipamento": "Nome do Equipamento",
+      "fabricante": "Fabricante do Equipamento",
+      "modelo": "Modelo do Equipamento",
+      "defeito": "Descrição do Defeito",
+      "observacao": "Observações adicionais"
+    }
+  ]
+  
